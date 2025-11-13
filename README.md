@@ -6,7 +6,7 @@
 
 Welcome to my personal portfolio website! This repository contains the source code for my professional portfolio, showcasing my projects as an **Android Developer** and my career as an **IT Software Support**.
 
-🌐 **Live Demo:** [https://adamsyahputra.my.id](https://adamsyahputra.my.id) *(Ganti dengan link domain Anda nanti)*
+🌐 **Live Demo:** [https://adamsyahputra.my.id](https://adamsyahputra.my.id)
 
 ## 🚀 About Me
 
