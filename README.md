@@ -1,16 +1,62 @@
-# React + Vite
+# Adam Syahputra - Personal Portfolio 👨‍💻
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-Currently, two official plugins are available:
+Welcome to my personal portfolio website! This repository contains the source code for my professional portfolio, showcasing my projects as an **Android Developer** and my career as an **IT Software Support**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🌐 **Live Demo:** [https://adamsyahputra.my.id](https://adamsyahputra.my.id) *(Ganti dengan link domain Anda nanti)*
 
-## React Compiler
+## 🚀 About Me
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+I am an **Informatics Graduate** from Sanata Dharma University and a **Bangkit Academy 2024** graduate (Mobile Development Cohort). Currently working as an **IT Software Support** at **PT. Giesecke & Devrient Indonesia**.
 
-## Expanding the ESLint configuration
+This portfolio highlights:
+* 📱 **Mobile Development Projects** (Kotlin, Jetpack Compose)
+* 💻 **Technical Skills** & Certifications
+* 📄 **Professional Experience**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+This project is built with modern web technologies for speed and performance:
+
+* **Framework:** [React](https://react.dev/) (via Vite)
+* **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+* **Icons:** [Lucide React](https://lucide.dev/)
+* **Deployment:** Vercel
+
+## 🏃‍♂️ Getting Started Locally
+
+Follow these steps to run the project on your machine:
+
+1.  **Clone the repository**
+    ```bash
+    git clone [https://github.com/adamsptech/my-portfolio.git](https://github.com/adamsptech/my-portfolio.git)
+    ```
+
+2.  **Navigate to project folder**
+    ```bash
+    cd my-portfolio
+    ```
+
+3.  **Install dependencies**
+    ```bash
+    npm install
+    ```
+
+4.  **Run development server**
+    ```bash
+    npm run dev
+    ```
+
+5.  Open `http://localhost:5173` in your browser.
+
+## 📬 Connect with Me
+
+* **LinkedIn:** [Adam Syahputra](https://www.linkedin.com/in/adamsputra/)
+* **GitHub:** [adamsptech](https://github.com/adamsptech)
+* **Email:** addm097@gmail.com
+
+---
+*© 2025 Adam Syahputra. Built with Vite & Tailwind CSS.*
